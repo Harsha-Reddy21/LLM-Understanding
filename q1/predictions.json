@@ -1,0 +1,36 @@
+{
+  "first_mask": [
+    {
+      "token": "sat",
+      "score": 0.2851,
+      "plausibility": "Less plausible for this context"
+    },
+    {
+      "token": "slept",
+      "score": 0.0927,
+      "plausibility": "Less plausible for this context"
+    },
+    {
+      "token": "stayed",
+      "score": 0.0741,
+      "plausibility": "Less plausible for this context"
+    }
+  ],
+  "second_mask": [
+    {
+      "token": "floor",
+      "score": 0.2675,
+      "plausibility": "Moderately plausible depending on context"
+    },
+    {
+      "token": "bed",
+      "score": 0.1229,
+      "plausibility": "Moderately plausible depending on context"
+    },
+    {
+      "token": "couch",
+      "score": 0.1124,
+      "plausibility": "Moderately plausible depending on context"
+    }
+  ]
+}

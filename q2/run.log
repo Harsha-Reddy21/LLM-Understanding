@@ -1,0 +1,92 @@
+Starting new validation run
+==================================================
+Question: What is the capital of France?
+Attempt 1 - Model Answer: The capital of France is Paris.
+Validation: VALID
+KB Answer: Paris
+--------------------------------------------------
+Question: Who wrote 'Romeo and Juliet'?
+Attempt 1 - Model Answer: "Romeo and Juliet" was written by William Shakespeare.
+Validation: VALID
+KB Answer: William Shakespeare
+--------------------------------------------------
+Question: What is the chemical symbol for gold?
+Attempt 1 - Model Answer: The chemical symbol for gold is Au.
+Validation: VALID
+KB Answer: Au
+--------------------------------------------------
+Question: How many planets are in our solar system?
+Attempt 1 - Model Answer: There are 8 planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.
+Validation: VALID
+KB Answer: 8
+--------------------------------------------------
+Question: What is the largest ocean on Earth?
+Attempt 1 - Model Answer: The largest ocean on Earth is the Pacific Ocean.
+Validation: VALID
+KB Answer: Pacific Ocean
+--------------------------------------------------
+Question: What year did World War II end?
+Attempt 1 - Model Answer: World War II ended in 1945.
+Validation: VALID
+KB Answer: 1945
+--------------------------------------------------
+Question: What is the square root of 64?
+Attempt 1 - Model Answer: The square root of 64 is 8.
+Validation: VALID
+KB Answer: 8
+--------------------------------------------------
+Question: Who painted the Mona Lisa?
+Attempt 1 - Model Answer: Leonardo da Vinci painted the Mona Lisa.
+Validation: VALID
+KB Answer: Leonardo da Vinci
+--------------------------------------------------
+Question: What is the tallest mountain in the world?
+Attempt 1 - Model Answer: Mount Everest is the tallest mountain in the world, standing at 29,032 feet (8,848 meters) above sea level.
+Validation: VALID
+KB Answer: Mount Everest
+--------------------------------------------------
+Question: What is the chemical formula for water?
+Attempt 1 - Model Answer: The chemical formula for water is H2O.
+Validation: VALID
+KB Answer: H2O
+--------------------------------------------------
+Question: What is the population of Tokyo?
+Attempt 1 - Model Answer: As of 2021, the population of Tokyo is approximately 14 million people.
+Validation: RETRY: out-of-domain
+--------------------------------------------------
+Question: What is the population of Tokyo? If you're not sure, please say 'I don't know'.
+Attempt 2 - Model Answer: As of 2021, the population of Tokyo is estimated to be approximately 14 million.
+Validation: RETRY: out-of-domain
+--------------------------------------------------
+Question: Who is the current CEO of Microsoft?
+Attempt 1 - Model Answer: The current CEO of Microsoft is Satya Nadella.
+Validation: RETRY: out-of-domain
+--------------------------------------------------
+Question: Who is the current CEO of Microsoft? If you're not sure, please say 'I don't know'.
+Attempt 2 - Model Answer: Satya Nadella.
+Validation: RETRY: out-of-domain
+--------------------------------------------------
+Question: What is the theory of relativity?
+Attempt 1 - Model Answer: The theory of relativity is a cornerstone of modern physics developed by Albert Einstein. It consists of two main parts: the special theory of relativity, which deals with the physics of objects moving at constant speeds, and the general theory of relativity, which describes the force of gravity as curves in space and time.
+Validation: RETRY: out-of-domain
+--------------------------------------------------
+Question: What is the theory of relativity? If you're not sure, please say 'I don't know'.
+Attempt 2 - Model Answer: The theory of relativity is a fundamental theory in physics formulated by Albert Einstein. It describes how time, space, and gravity are related and how they interact with objects in motion.
+Validation: RETRY: out-of-domain
+--------------------------------------------------
+Question: How do quantum computers work?
+Attempt 1 - Model Answer: Quantum computers leverage principles of quantum mechanics to perform computations using quantum bits (qubits) that can exist in multiple states simultaneously. This enables them to process vast amounts of data and solve complex problems at speeds potentially far surpassing classical computers.
+Validation: RETRY: out-of-domain
+--------------------------------------------------
+Question: How do quantum computers work? If you're not sure, please say 'I don't know'.
+Attempt 2 - Model Answer: Quantum computers leverage the principles of quantum mechanics, such as superposition and entanglement, to perform operations on quantum bits (qubits) instead of classical bits. These qubits can exist in multiple states simultaneously, enabling quantum computers to potentially solve certain problems much faster than classical computers.
+Validation: RETRY: out-of-domain
+--------------------------------------------------
+Question: What are the health benefits of meditation?
+Attempt 1 - Model Answer: Meditation has been shown to reduce stress, improve focus and concentration, promote emotional well-being, lower blood pressure, and enhance mindfulness and self-awareness.
+Validation: RETRY: out-of-domain
+--------------------------------------------------
+Question: What are the health benefits of meditation? If you're not sure, please say 'I don't know'.
+Attempt 2 - Model Answer: Meditation has been shown to reduce stress, anxiety, and promote emotional well-being. It can also improve focus, concentration, and mindfulness, as well as lower blood pressure and enhance overall mental health.
+Validation: RETRY: out-of-domain
+--------------------------------------------------

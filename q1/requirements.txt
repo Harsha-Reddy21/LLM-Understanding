@@ -1,0 +1,4 @@
+tokenizers 
+transformers 
+sentencepiece
+torch
